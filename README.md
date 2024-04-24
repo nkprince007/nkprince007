@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a professional devops engineer who works mostly on kubernetes and cloud native applications.
+
+[website](https://naveenkumarsangi.me) [resume](https://resume.naveenkumarsangi.me)
+
 <!--
 **nkprince007/nkprince007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
